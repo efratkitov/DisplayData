@@ -23,6 +23,10 @@ namespace DisplayDate
         public MainWindow()
         {
             InitializeComponent();
+            DateTime now = DateTime.Now;
+
+            // עדכון התוכן של ה-Label
+            datalable.Content = $"Current Date and Time: {now:yyyy-MM-dd HH:mm:ss}";
         }
     }
 }
