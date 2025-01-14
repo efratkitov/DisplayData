@@ -26,12 +26,9 @@ namespace DisplayDate
 
             // פורמט מותאם אישית להצגת התאריך והשעה
             string formattedDateTime = DateTime.Now.ToString("dddd, dd MMMM yyyy, HH:mm");
-
-            // הצגת התאריך והשעה בתוך ה-Label
             datalable.Content = $"Current Date and Time: {formattedDateTime}";
             int yeudit = 5;
             int y = 6;
-
         }
     }
 }
