@@ -31,6 +31,7 @@ namespace DisplayDate
             datalable.Content = $"Current Date and Time: {formattedDateTime}";
             int yeudit = 5;
             int y = 6;
+            int z = 7;
         }
     }
 }
