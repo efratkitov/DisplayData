@@ -29,7 +29,7 @@ namespace DisplayDate
 
             // הצגת התאריך והשעה בתוך ה-Label
             datalable.Content = $"Current Date and Time: {formattedDateTime}";
-            
+            int y = 6;
         }
     }
 }

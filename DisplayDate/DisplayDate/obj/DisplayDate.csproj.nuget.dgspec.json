@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\שעור 1 תרגול\\Git\\DisplayDate\\DisplayDate\\DisplayDate.csproj": {}
+    "C:\\Users\\User\\Desktop\\יהודית\\DisplayDate\\DisplayDate\\DisplayDate.csproj": {}
   },
   "projects": {
-    "D:\\c#\\שעור 1 תרגול\\Git\\DisplayDate\\DisplayDate\\DisplayDate.csproj": {
+    "C:\\Users\\User\\Desktop\\יהודית\\DisplayDate\\DisplayDate\\DisplayDate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\שעור 1 תרגול\\Git\\DisplayDate\\DisplayDate\\DisplayDate.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\יהודית\\DisplayDate\\DisplayDate\\DisplayDate.csproj",
         "projectName": "DisplayDate",
-        "projectPath": "D:\\c#\\שעור 1 תרגול\\Git\\DisplayDate\\DisplayDate\\DisplayDate.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\יהודית\\DisplayDate\\DisplayDate\\DisplayDate.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\שעור 1 תרגול\\Git\\DisplayDate\\DisplayDate\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\יהודית\\DisplayDate\\DisplayDate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
